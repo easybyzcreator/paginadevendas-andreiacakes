@@ -1,0 +1,17 @@
+{
+  "name": "Andreia Cakes - Brazilian Deserts",
+  "short_name": "Andreia Cakes",
+  "description": "App Oficial Andreia Cakes - Brazilian Deserts",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F2EC",
+  "theme_color": "#342825",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/BHHmYJXg/paw.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

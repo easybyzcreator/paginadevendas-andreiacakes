@@ -1,0 +1,6 @@
+{
+  "name": "Andreia Cakes - Brazilian Deserts",
+  "description": "Página oficial do App Andreia Cakes - Brazilian Deserts - Transforme sua confeitaria em uma operação profissional e escalável",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
